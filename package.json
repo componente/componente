@@ -1,0 +1,29 @@
+{
+  "name": "componente",
+  "version": "0.0.1",
+  "description": "Component Drawing Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/componente/componente.git"
+  },
+  "keywords": [
+    "Component",
+    "Draw",
+    "Drawing",
+    "GUI"
+  ],
+  "author": "Maxi Ferreira <charca@gmail.com> (https://github.com/Charca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/componente/componente/issues"
+  },
+  "homepage": "https://github.com/componente/componente",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "jest-cli": "^0.2.2"
+  }
+}
