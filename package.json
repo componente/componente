@@ -1,9 +1,10 @@
 {
   "name": "componente",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "Component Drawing Tool",
   "main": "index.js",
   "scripts": {
+    "start": "gulp",
     "test": "jest"
   },
   "repository": {
@@ -25,5 +26,9 @@
   "devDependencies": {
     "gulp": "^3.8.11",
     "jest-cli": "^0.2.2"
+  },
+  "subdomain": "charca-componente",
+  "engines": {
+    "node": "0.10.x"
   }
 }
